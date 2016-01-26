@@ -1,0 +1,1 @@
+a google speech component for delphi
